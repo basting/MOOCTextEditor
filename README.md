@@ -1,10 +1,6 @@
 ## Data structures: Measuring and Optimizing Performance
 
-My solutions
-
-Starter Code and GUI Application for Course 2 in the
-Java Programming: Object Oriented Design of 
-Data Structures Specialization:
+My solutions for the assignments in the course *Java Programming: Object Oriented Design of Data Structures Specialization*:
 
 https://www.coursera.org/learn/data-structures-optimizing-performance
 
