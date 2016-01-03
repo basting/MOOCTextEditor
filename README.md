@@ -43,7 +43,7 @@ Below are the files introduced in each week and used in each week of the course.
 
 ### Setup
 
-Importing Project into eclipse:
+#####Importing Project into eclipse:
 1. Create a new Java Project in your workspace
 2. Import the starter files:
 		File -> Import -> Select "File System" -> Next -> Browse and set 
