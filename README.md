@@ -1,6 +1,6 @@
 ## Data structures: Measuring and Optimizing Performance
 
-My solutions for the assignments in the course **Data structures: Measuring and Optimizing Performance**:
+My solutions for the programming assignments
 
 https://www.coursera.org/learn/data-structures-optimizing-performance
 
@@ -43,7 +43,7 @@ Below are the files introduced in each week and used in each week of the course.
 
 ### Setup
 
-#####Importing Project into eclipse:
+##### Importing Project into eclipse:
 1. Create a new Java Project in your workspace
 2. Import the starter files:
 		File >> Import >> Select "File System" >> Next >> Browse and set 
